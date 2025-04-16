@@ -1,1 +1,2 @@
-# Sales Insights dashboard Data Analyst Project
+# Sales Insights Dashboard
+
